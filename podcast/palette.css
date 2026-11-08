@@ -1,0 +1,24 @@
+/* Opt-in: add tcw-podcast-palette to preview body; load AFTER existing CSS. No source edits performed. Edition rules only; native controls remain browser-owned. */
+body.tcw-podcast-palette {background:#101114;background-image:none;color:#f6f2ea;}
+body.tcw-podcast-palette :is(.podcast,.card) {background:#171a21!important;border-color:#2b3039!important;}
+body.tcw-podcast-palette :is(.meta,.crumbs,.nav a,.foot,.foot a,.card p,.share .sl) {color:#9aa1ab;}
+body.tcw-podcast-palette :is(h1,h2,.podcast h2) {color:#f6f2ea;}
+body.tcw-podcast-palette .podcast[id*="fanatic"] h2 {border-left:2px solid #6fc59a;padding-left:12px;}
+body.tcw-podcast-palette .podcast[id*="gambler"] h2 {border-left:2px solid #c6a15a;padding-left:12px;}
+body.tcw-podcast-palette :is(a,button,summary) {transition:background-color 120ms linear,border-color 120ms linear,color 120ms linear;}
+body.tcw-podcast-palette :is(article a:not(.btn),.podcast-story-link) {color:#c6a15a;text-decoration:underline;text-underline-offset:3px;}
+body.tcw-podcast-palette :is(article a:not(.btn),.podcast-story-link):hover {color:#d4b26f;}
+body.tcw-podcast-palette :is(article a:not(.btn),.podcast-story-link):active {color:#b99550;}
+body.tcw-podcast-palette :is(.nav a,.crumbs a,.foot a):hover {color:#f6f2ea;}
+body.tcw-podcast-palette :is(.nav a,.crumbs a,.foot a):active {color:#c6a15a;}
+body.tcw-podcast-palette .podcast .podcast-share {background:#c6a15a;color:#101114!important;border:1px solid #c6a15a!important;}
+body.tcw-podcast-palette .podcast .podcast-share:hover {background:#d4b26f;color:#101114!important;border:1px solid #d4b26f!important;}
+body.tcw-podcast-palette .podcast .podcast-share:active {background:#b99550;color:#101114!important;border:1px solid #b99550!important;}
+body.tcw-podcast-palette :is(.podcast .b-main,.cta .btn:not(.podcast-share),.share a,.share button,summary) {background:#171a21;color:#f6f2ea!important;border:1px solid #727985!important;text-decoration:none;min-height:44px;cursor:pointer;}
+body.tcw-podcast-palette :is(.podcast .b-main,.cta .btn:not(.podcast-share),.share a,.share button,summary):hover {background:#222731;color:#f6f2ea!important;border:1px solid #9098a4!important;text-decoration:none;min-height:44px;cursor:pointer;}
+body.tcw-podcast-palette :is(.podcast .b-main,.cta .btn:not(.podcast-share),.share a,.share button,summary):active {background:#2b313d;color:#f6f2ea!important;border:1px solid #a4acb8!important;text-decoration:none;min-height:44px;cursor:pointer;}
+body.tcw-podcast-palette summary {padding:8px 12px;border-radius:6px;}
+body.tcw-podcast-palette :is(a,button,summary,audio,video):focus-visible {outline:2px solid #f6f2ea;outline-offset:3px;}
+body.tcw-podcast-palette :is(audio,video) {background:#000;color-scheme:dark;}
+body.tcw-podcast-palette .share .sok {color:#f6f2ea;}
+@media(prefers-reduced-motion:reduce){body.tcw-podcast-palette :is(a,button,summary){transition:none;}}
