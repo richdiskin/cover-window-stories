@@ -16,7 +16,7 @@
     <itunes:author>The Cover Window</itunes:author>
     <itunes:subtitle>College football previews with Snake Blitzskin, from The Cover Window.</itunes:subtitle>
     <itunes:summary>The Gambler Podcast with Snake Blitzskin. College football game previews from The Cover Window, including Game Day episodes.</itunes:summary>
-    <itunes:explicit>false</itunes:explicit>
+    <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
       <itunes:name>The Cover Window</itunes:name>
@@ -45,7 +45,7 @@
       <itunes:author>The Cover Window</itunes:author>
       <itunes:summary>The Gambler Podcast: Vanderbilt Commodores at Florida Gators. 12:00 PM ET Sat Nov 21 · Ben Hill Griffin Stadium · SEC Network. Hosted by Snake Blitzskin.</itunes:summary>
       <itunes:duration>1:27</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/college_20261121_snake_gambler/401856748.mp3" length="2080852" type="audio/mpeg"/>
     </item>
@@ -59,7 +59,7 @@
       <itunes:author>The Cover Window</itunes:author>
       <itunes:summary>The Gambler Podcast: BYU Cougars at Kansas Jayhawks. 12:00 PM ET Sat Nov 21 · David Booth Kansas Memorial Stadium · ABC. Hosted by Snake Blitzskin.</itunes:summary>
       <itunes:duration>1:22</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/college_20261121_snake_gambler/401856866.mp3" length="1956719" type="audio/mpeg"/>
     </item>
@@ -73,7 +73,7 @@
       <itunes:author>The Cover Window</itunes:author>
       <itunes:summary>The Gambler Podcast: Ohio State Buckeyes at Nebraska Cornhuskers. 12:00 PM ET Sat Nov 21 · Memorial Stadium (Lincoln, NE) · Fox. Hosted by Snake Blitzskin.</itunes:summary>
       <itunes:duration>1:36</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/college_20261121_snake_gambler/401858531.mp3" length="2315954" type="audio/mpeg"/>
     </item>
