@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Gambler Podcast: College Football</title>
+    <link>https://stories.thecoverwindow.com/podcasts/</link>
+    <description>The Gambler Podcast with Snake Blitzskin. College football game previews from The Cover Window, including Game Day episodes.</description>
+    <language>en-us</language>
+    <copyright>&#169; 2026 The Cover Window</copyright>
+    <lastBuildDate>Sun, 22 Nov 2026 20:11:56 -0500</lastBuildDate>
+    <generator>Cover Window podcast feed builder</generator>
+    <atom:link href="https://stories.thecoverwindow.com/podcasts/feeds/college-gambler.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>The Cover Window</itunes:author>
+    <itunes:subtitle>College football previews with Snake Blitzskin, from The Cover Window.</itunes:subtitle>
+    <itunes:summary>The Gambler Podcast with Snake Blitzskin. College football game previews from The Cover Window, including Game Day episodes.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>The Cover Window</itunes:name>
+      <itunes:email>desk@thecoverwindow.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Sports">
+      <itunes:category text="Football"/>
+    </itunes:category>
+    <itunes:image href="https://stories.thecoverwindow.com/podcasts/feeds/college-gambler.png"/>
+    <image>
+      <url>https://stories.thecoverwindow.com/podcasts/feeds/college-gambler.png</url>
+      <title>The Gambler Podcast: College Football</title>
+      <link>https://stories.thecoverwindow.com/podcasts/</link>
+    </image>
+    <podcast:guid>2f2cbb4e-fa53-581b-8de5-7c7b77049b17</podcast:guid>
+    <podcast:medium>audio</podcast:medium>
+    <podcast:person role="host" group="cast">Snake Blitzskin</podcast:person>
+    <podcast:person role="owner">The Cover Window</podcast:person>
+    <item>
+      <title>The Gambler Podcast: Vanderbilt Commodores at Florida Gators</title>
+      <description>The Gambler Podcast: Vanderbilt Commodores at Florida Gators. 12:00 PM ET Sat Nov 21 · Ben Hill Griffin Stadium · SEC Network. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Vanderbilt Commodores at Florida Gators. 12:00 PM ET Sat Nov 21 · Ben Hill Griffin Stadium · SEC Network. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/college/2026/nov-21/vanderbilt-commodores-at-florida-gators/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/college/2026/nov-21/vanderbilt-commodores-at-florida-gators/gambler/podcast/</guid>
+      <pubDate>Sat, 21 Nov 2026 11:18:09 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Vanderbilt Commodores at Florida Gators. 12:00 PM ET Sat Nov 21 · Ben Hill Griffin Stadium · SEC Network. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>1:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/college_20261121_snake_gambler/401856748.mp3" length="2080852" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: BYU Cougars at Kansas Jayhawks</title>
+      <description>The Gambler Podcast: BYU Cougars at Kansas Jayhawks. 12:00 PM ET Sat Nov 21 · David Booth Kansas Memorial Stadium · ABC. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: BYU Cougars at Kansas Jayhawks. 12:00 PM ET Sat Nov 21 · David Booth Kansas Memorial Stadium · ABC. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/college/2026/nov-21/byu-cougars-at-kansas-jayhawks/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/college/2026/nov-21/byu-cougars-at-kansas-jayhawks/gambler/podcast/</guid>
+      <pubDate>Sat, 21 Nov 2026 11:18:09 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: BYU Cougars at Kansas Jayhawks. 12:00 PM ET Sat Nov 21 · David Booth Kansas Memorial Stadium · ABC. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>1:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/college_20261121_snake_gambler/401856866.mp3" length="1956719" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Ohio State Buckeyes at Nebraska Cornhuskers</title>
+      <description>The Gambler Podcast: Ohio State Buckeyes at Nebraska Cornhuskers. 12:00 PM ET Sat Nov 21 · Memorial Stadium (Lincoln, NE) · Fox. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Ohio State Buckeyes at Nebraska Cornhuskers. 12:00 PM ET Sat Nov 21 · Memorial Stadium (Lincoln, NE) · Fox. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/college/2026/nov-21/ohio-state-buckeyes-at-nebraska-cornhuskers/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/college/2026/nov-21/ohio-state-buckeyes-at-nebraska-cornhuskers/gambler/podcast/</guid>
+      <pubDate>Sat, 21 Nov 2026 11:18:09 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Ohio State Buckeyes at Nebraska Cornhuskers. 12:00 PM ET Sat Nov 21 · Memorial Stadium (Lincoln, NE) · Fox. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>1:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/college_20261121_snake_gambler/401858531.mp3" length="2315954" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

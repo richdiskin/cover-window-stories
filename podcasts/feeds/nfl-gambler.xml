@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Gambler Podcast: NFL</title>
+    <link>https://stories.thecoverwindow.com/nfl/</link>
+    <description>The Gambler Podcast with Snake Blitzskin. NFL game previews from The Cover Window: the matchup, the line, and the pick, every week.</description>
+    <language>en-us</language>
+    <copyright>&#169; 2026 The Cover Window</copyright>
+    <lastBuildDate>Sun, 22 Nov 2026 20:11:56 -0500</lastBuildDate>
+    <generator>Cover Window podcast feed builder</generator>
+    <atom:link href="https://stories.thecoverwindow.com/podcasts/feeds/nfl-gambler.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>The Cover Window</itunes:author>
+    <itunes:subtitle>NFL game previews with Snake Blitzskin, from The Cover Window.</itunes:subtitle>
+    <itunes:summary>The Gambler Podcast with Snake Blitzskin. NFL game previews from The Cover Window: the matchup, the line, and the pick, every week.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>The Cover Window</itunes:name>
+      <itunes:email>desk@thecoverwindow.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Sports">
+      <itunes:category text="Football"/>
+    </itunes:category>
+    <itunes:image href="https://stories.thecoverwindow.com/podcasts/feeds/nfl-gambler.png"/>
+    <image>
+      <url>https://stories.thecoverwindow.com/podcasts/feeds/nfl-gambler.png</url>
+      <title>The Gambler Podcast: NFL</title>
+      <link>https://stories.thecoverwindow.com/nfl/</link>
+    </image>
+    <podcast:guid>ec85f649-9f08-5b56-804d-c573a89ea190</podcast:guid>
+    <podcast:medium>audio</podcast:medium>
+    <podcast:person role="host" group="cast">Snake Blitzskin</podcast:person>
+    <podcast:person role="owner">The Cover Window</podcast:person>
+    <item>
+      <title>The Gambler Podcast: Indianapolis Colts at Houston Texans</title>
+      <description>The Gambler Podcast: Indianapolis Colts at Houston Texans. 8:15 PM ET Thu Nov 19 · Reliant Stadium, Houston, TX · Prime Video. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Indianapolis Colts at Houston Texans. 8:15 PM ET Thu Nov 19 · Reliant Stadium, Houston, TX · Prime Video. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-11/indianapolis-colts-at-houston-texans/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-11/indianapolis-colts-at-houston-texans/gambler/podcast/</guid>
+      <pubDate>Tue, 17 Nov 2026 10:44:38 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Indianapolis Colts at Houston Texans. 8:15 PM ET Thu Nov 19 · Reliant Stadium, Houston, TX · Prime Video. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>4:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w11_gambler/401873066.mp3" length="5915837" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Arizona Cardinals at Kansas City Chiefs</title>
+      <description>The Gambler Podcast: Arizona Cardinals at Kansas City Chiefs. 1:00 PM ET Sun Nov 22 · Arrowhead Stadium, Kansas City, MO · CBS. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Arizona Cardinals at Kansas City Chiefs. 1:00 PM ET Sun Nov 22 · Arrowhead Stadium, Kansas City, MO · CBS. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-11/arizona-cardinals-at-kansas-city-chiefs/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-11/arizona-cardinals-at-kansas-city-chiefs/gambler/podcast/</guid>
+      <pubDate>Tue, 17 Nov 2026 10:44:38 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Arizona Cardinals at Kansas City Chiefs. 1:00 PM ET Sun Nov 22 · Arrowhead Stadium, Kansas City, MO · CBS. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>3:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w11_gambler/401873067.mp3" length="5498923" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Baltimore Ravens at Carolina Panthers</title>
+      <description>The Gambler Podcast: Baltimore Ravens at Carolina Panthers. 1:00 PM ET Sun Nov 22 · Bank of America Stadium, Charlotte, NC · Fox. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Baltimore Ravens at Carolina Panthers. 1:00 PM ET Sun Nov 22 · Bank of America Stadium, Charlotte, NC · Fox. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-11/baltimore-ravens-at-carolina-panthers/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-11/baltimore-ravens-at-carolina-panthers/gambler/podcast/</guid>
+      <pubDate>Tue, 17 Nov 2026 10:44:38 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Baltimore Ravens at Carolina Panthers. 1:00 PM ET Sun Nov 22 · Bank of America Stadium, Charlotte, NC · Fox. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>3:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w11_gambler/401873068.mp3" length="5258805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Jacksonville Jaguars at New York Giants</title>
+      <description>The Gambler Podcast: Jacksonville Jaguars at New York Giants. 4:25 PM ET Sun Nov 22 · MetLife Stadium, East Rutherford, NJ · CBS. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Jacksonville Jaguars at New York Giants. 4:25 PM ET Sun Nov 22 · MetLife Stadium, East Rutherford, NJ · CBS. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-11/jacksonville-jaguars-at-new-york-giants/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-11/jacksonville-jaguars-at-new-york-giants/gambler/podcast/</guid>
+      <pubDate>Tue, 17 Nov 2026 10:44:38 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Jacksonville Jaguars at New York Giants. 4:25 PM ET Sun Nov 22 · MetLife Stadium, East Rutherford, NJ · CBS. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>3:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w11_gambler/401873069.mp3" length="5539674" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Miami Dolphins at Buffalo Bills</title>
+      <description>The Gambler Podcast: Miami Dolphins at Buffalo Bills. 1:00 PM ET Sun Nov 22 · Highmark Stadium, Orchard Park, NY · CBS. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Miami Dolphins at Buffalo Bills. 1:00 PM ET Sun Nov 22 · Highmark Stadium, Orchard Park, NY · CBS. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-11/miami-dolphins-at-buffalo-bills/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-11/miami-dolphins-at-buffalo-bills/gambler/podcast/</guid>
+      <pubDate>Tue, 17 Nov 2026 10:44:38 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Miami Dolphins at Buffalo Bills. 1:00 PM ET Sun Nov 22 · Highmark Stadium, Orchard Park, NY · CBS. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>3:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w11_gambler/401873070.mp3" length="4992356" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: New Orleans Saints at Chicago Bears</title>
+      <description>The Gambler Podcast: New Orleans Saints at Chicago Bears. 1:00 PM ET Sun Nov 22 · Soldier Field, Chicago, IL · Fox. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: New Orleans Saints at Chicago Bears. 1:00 PM ET Sun Nov 22 · Soldier Field, Chicago, IL · Fox. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-11/new-orleans-saints-at-chicago-bears/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-11/new-orleans-saints-at-chicago-bears/gambler/podcast/</guid>
+      <pubDate>Tue, 17 Nov 2026 10:44:38 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: New Orleans Saints at Chicago Bears. 1:00 PM ET Sun Nov 22 · Soldier Field, Chicago, IL · Fox. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>3:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w11_gambler/401873071.mp3" length="5587321" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Tampa Bay Buccaneers at Detroit Lions</title>
+      <description>The Gambler Podcast: Tampa Bay Buccaneers at Detroit Lions. 1:00 PM ET Sun Nov 22 · Ford Field, Detroit, MI · Fox. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Tampa Bay Buccaneers at Detroit Lions. 1:00 PM ET Sun Nov 22 · Ford Field, Detroit, MI · Fox. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-11/tampa-bay-buccaneers-at-detroit-lions/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-11/tampa-bay-buccaneers-at-detroit-lions/gambler/podcast/</guid>
+      <pubDate>Tue, 17 Nov 2026 10:44:38 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Tampa Bay Buccaneers at Detroit Lions. 1:00 PM ET Sun Nov 22 · Ford Field, Detroit, MI · Fox. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>3:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w11_gambler/401873072.mp3" length="5439363" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Tennessee Titans at Dallas Cowboys</title>
+      <description>The Gambler Podcast: Tennessee Titans at Dallas Cowboys. 1:00 PM ET Sun Nov 22 · AT&amp;T Stadium, Arlington, TX · Fox. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Tennessee Titans at Dallas Cowboys. 1:00 PM ET Sun Nov 22 · AT&amp;T Stadium, Arlington, TX · Fox. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-11/tennessee-titans-at-dallas-cowboys/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-11/tennessee-titans-at-dallas-cowboys/gambler/podcast/</guid>
+      <pubDate>Tue, 17 Nov 2026 10:44:38 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Tennessee Titans at Dallas Cowboys. 1:00 PM ET Sun Nov 22 · AT&amp;T Stadium, Arlington, TX · Fox. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>3:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w11_gambler/401873073.mp3" length="5236235" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: New York Jets at Los Angeles Chargers</title>
+      <description>The Gambler Podcast: New York Jets at Los Angeles Chargers. 4:05 PM ET Sun Nov 22 · SoFi Stadium, Inglewood, CA · Fox. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: New York Jets at Los Angeles Chargers. 4:05 PM ET Sun Nov 22 · SoFi Stadium, Inglewood, CA · Fox. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-11/new-york-jets-at-los-angeles-chargers/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-11/new-york-jets-at-los-angeles-chargers/gambler/podcast/</guid>
+      <pubDate>Tue, 17 Nov 2026 10:44:38 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: New York Jets at Los Angeles Chargers. 4:05 PM ET Sun Nov 22 · SoFi Stadium, Inglewood, CA · Fox. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>4:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w11_gambler/401873074.mp3" length="6280715" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Las Vegas Raiders at Denver Broncos</title>
+      <description>The Gambler Podcast: Las Vegas Raiders at Denver Broncos. 4:25 PM ET Sun Nov 22 · Empower Field at Mile High, Denver, CO · CBS. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Las Vegas Raiders at Denver Broncos. 4:25 PM ET Sun Nov 22 · Empower Field at Mile High, Denver, CO · CBS. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-11/las-vegas-raiders-at-denver-broncos/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-11/las-vegas-raiders-at-denver-broncos/gambler/podcast/</guid>
+      <pubDate>Tue, 17 Nov 2026 10:44:38 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Las Vegas Raiders at Denver Broncos. 4:25 PM ET Sun Nov 22 · Empower Field at Mile High, Denver, CO · CBS. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>3:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w11_gambler/401873075.mp3" length="5391716" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Pittsburgh Steelers at Philadelphia Eagles</title>
+      <description>The Gambler Podcast: Pittsburgh Steelers at Philadelphia Eagles. 1:00 PM ET Sun Nov 22 · Lincoln Financial Field, Philadelphia, PA · CBS. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Pittsburgh Steelers at Philadelphia Eagles. 1:00 PM ET Sun Nov 22 · Lincoln Financial Field, Philadelphia, PA · CBS. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-11/pittsburgh-steelers-at-philadelphia-eagles/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-11/pittsburgh-steelers-at-philadelphia-eagles/gambler/podcast/</guid>
+      <pubDate>Tue, 17 Nov 2026 10:44:38 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Pittsburgh Steelers at Philadelphia Eagles. 1:00 PM ET Sun Nov 22 · Lincoln Financial Field, Philadelphia, PA · CBS. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>3:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w11_gambler/401873076.mp3" length="5531523" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Minnesota Vikings at San Francisco 49ers</title>
+      <description>The Gambler Podcast: Minnesota Vikings at San Francisco 49ers. 8:20 PM ET Sun Nov 22 · Estadio Banorte, Mexico City, Mexico · NBC. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Minnesota Vikings at San Francisco 49ers. 8:20 PM ET Sun Nov 22 · Estadio Banorte, Mexico City, Mexico · NBC. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-11/minnesota-vikings-at-san-francisco-49ers/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-11/minnesota-vikings-at-san-francisco-49ers/gambler/podcast/</guid>
+      <pubDate>Tue, 17 Nov 2026 10:44:38 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Minnesota Vikings at San Francisco 49ers. 8:20 PM ET Sun Nov 22 · Estadio Banorte, Mexico City, Mexico · NBC. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>3:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w11_gambler/401873077.mp3" length="5291406" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Cincinnati Bengals at Washington Commanders</title>
+      <description>The Gambler Podcast: Cincinnati Bengals at Washington Commanders. 8:15 PM ET Mon Nov 23 · Northwest Stadium, Landover, MD · ESPN. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Cincinnati Bengals at Washington Commanders. 8:15 PM ET Mon Nov 23 · Northwest Stadium, Landover, MD · ESPN. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-11/cincinnati-bengals-at-washington-commanders/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-11/cincinnati-bengals-at-washington-commanders/gambler/podcast/</guid>
+      <pubDate>Tue, 17 Nov 2026 10:44:38 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Cincinnati Bengals at Washington Commanders. 8:15 PM ET Mon Nov 23 · Northwest Stadium, Landover, MD · ESPN. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>3:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w11_gambler/401873078.mp3" length="5162883" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: New England Patriots at Detroit Lions</title>
+      <description>The Gambler Podcast: New England Patriots at Detroit Lions. 9:30 AM ET Sun Nov 15 · FC Bayern Munich Stadium, Munich, Germany · Fox. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: New England Patriots at Detroit Lions. 9:30 AM ET Sun Nov 15 · FC Bayern Munich Stadium, Munich, Germany · Fox. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-10/new-england-patriots-at-detroit-lions/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-10/new-england-patriots-at-detroit-lions/gambler/podcast/</guid>
+      <pubDate>Wed, 11 Nov 2026 18:16:07 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: New England Patriots at Detroit Lions. 9:30 AM ET Sun Nov 15 · FC Bayern Munich Stadium, Munich, Germany · Fox. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w10_gambler/401873053.mp3" length="937388" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Buffalo Bills at New York Jets</title>
+      <description>The Gambler Podcast: Buffalo Bills at New York Jets. 1:00 PM ET Sun Nov 15 · MetLife Stadium, East Rutherford, NJ · CBS. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Buffalo Bills at New York Jets. 1:00 PM ET Sun Nov 15 · MetLife Stadium, East Rutherford, NJ · CBS. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-10/buffalo-bills-at-new-york-jets/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-10/buffalo-bills-at-new-york-jets/gambler/podcast/</guid>
+      <pubDate>Wed, 11 Nov 2026 18:16:07 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Buffalo Bills at New York Jets. 1:00 PM ET Sun Nov 15 · MetLife Stadium, East Rutherford, NJ · CBS. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w10_gambler/401873054.mp3" length="820268" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Carolina Panthers at New Orleans Saints</title>
+      <description>The Gambler Podcast: Carolina Panthers at New Orleans Saints. 1:00 PM ET Sun Nov 15 · Caesars Superdome, New Orleans, LA · Fox. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Carolina Panthers at New Orleans Saints. 1:00 PM ET Sun Nov 15 · Caesars Superdome, New Orleans, LA · Fox. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-10/carolina-panthers-at-new-orleans-saints/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-10/carolina-panthers-at-new-orleans-saints/gambler/podcast/</guid>
+      <pubDate>Wed, 11 Nov 2026 18:16:07 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Carolina Panthers at New Orleans Saints. 1:00 PM ET Sun Nov 15 · Caesars Superdome, New Orleans, LA · Fox. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w10_gambler/401873055.mp3" length="860972" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Houston Texans at Cleveland Browns</title>
+      <description>The Gambler Podcast: Houston Texans at Cleveland Browns. 1:00 PM ET Sun Nov 15 · Huntington Bank Field, Cleveland, OH · Fox. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Houston Texans at Cleveland Browns. 1:00 PM ET Sun Nov 15 · Huntington Bank Field, Cleveland, OH · Fox. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-10/houston-texans-at-cleveland-browns/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-10/houston-texans-at-cleveland-browns/gambler/podcast/</guid>
+      <pubDate>Wed, 11 Nov 2026 18:16:07 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Houston Texans at Cleveland Browns. 1:00 PM ET Sun Nov 15 · Huntington Bank Field, Cleveland, OH · Fox. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w10_gambler/401873056.mp3" length="844076" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Jacksonville Jaguars at Tennessee Titans</title>
+      <description>The Gambler Podcast: Jacksonville Jaguars at Tennessee Titans. 1:00 PM ET Sun Nov 15 · Nissan Stadium, Nashville, TN · Fox. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Jacksonville Jaguars at Tennessee Titans. 1:00 PM ET Sun Nov 15 · Nissan Stadium, Nashville, TN · Fox. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-10/jacksonville-jaguars-at-tennessee-titans/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-10/jacksonville-jaguars-at-tennessee-titans/gambler/podcast/</guid>
+      <pubDate>Wed, 11 Nov 2026 18:16:07 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Jacksonville Jaguars at Tennessee Titans. 1:00 PM ET Sun Nov 15 · Nissan Stadium, Nashville, TN · Fox. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w10_gambler/401873057.mp3" length="888620" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Kansas City Chiefs at Atlanta Falcons</title>
+      <description>The Gambler Podcast: Kansas City Chiefs at Atlanta Falcons. 1:00 PM ET Sun Nov 15 · Mercedes-Benz Stadium, Atlanta, GA · CBS. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Kansas City Chiefs at Atlanta Falcons. 1:00 PM ET Sun Nov 15 · Mercedes-Benz Stadium, Atlanta, GA · CBS. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-10/kansas-city-chiefs-at-atlanta-falcons/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-10/kansas-city-chiefs-at-atlanta-falcons/gambler/podcast/</guid>
+      <pubDate>Wed, 11 Nov 2026 18:16:07 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Kansas City Chiefs at Atlanta Falcons. 1:00 PM ET Sun Nov 15 · Mercedes-Benz Stadium, Atlanta, GA · CBS. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w10_gambler/401873058.mp3" length="859436" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Miami Dolphins at Indianapolis Colts</title>
+      <description>The Gambler Podcast: Miami Dolphins at Indianapolis Colts. 1:00 PM ET Sun Nov 15 · Lucas Oil Stadium, Indianapolis, IN · CBS. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Miami Dolphins at Indianapolis Colts. 1:00 PM ET Sun Nov 15 · Lucas Oil Stadium, Indianapolis, IN · CBS. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-10/miami-dolphins-at-indianapolis-colts/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-10/miami-dolphins-at-indianapolis-colts/gambler/podcast/</guid>
+      <pubDate>Wed, 11 Nov 2026 18:16:07 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Miami Dolphins at Indianapolis Colts. 1:00 PM ET Sun Nov 15 · Lucas Oil Stadium, Indianapolis, IN · CBS. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w10_gambler/401873059.mp3" length="842924" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Minnesota Vikings at Green Bay Packers</title>
+      <description>The Gambler Podcast: Minnesota Vikings at Green Bay Packers. 1:00 PM ET Sun Nov 15 · Lambeau Field, Green Bay, WI · Fox. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Minnesota Vikings at Green Bay Packers. 1:00 PM ET Sun Nov 15 · Lambeau Field, Green Bay, WI · Fox. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-10/minnesota-vikings-at-green-bay-packers/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-10/minnesota-vikings-at-green-bay-packers/gambler/podcast/</guid>
+      <pubDate>Wed, 11 Nov 2026 18:16:07 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Minnesota Vikings at Green Bay Packers. 1:00 PM ET Sun Nov 15 · Lambeau Field, Green Bay, WI · Fox. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w10_gambler/401873060.mp3" length="848684" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Los Angeles Rams at Arizona Cardinals</title>
+      <description>The Gambler Podcast: Los Angeles Rams at Arizona Cardinals. 4:05 PM ET Sun Nov 15 · State Farm Stadium, Glendale, AZ · CBS. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Los Angeles Rams at Arizona Cardinals. 4:05 PM ET Sun Nov 15 · State Farm Stadium, Glendale, AZ · CBS. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-10/los-angeles-rams-at-arizona-cardinals/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-10/los-angeles-rams-at-arizona-cardinals/gambler/podcast/</guid>
+      <pubDate>Wed, 11 Nov 2026 18:16:07 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Los Angeles Rams at Arizona Cardinals. 4:05 PM ET Sun Nov 15 · State Farm Stadium, Glendale, AZ · CBS. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w10_gambler/401873061.mp3" length="887084" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Seattle Seahawks at Las Vegas Raiders</title>
+      <description>The Gambler Podcast: Seattle Seahawks at Las Vegas Raiders. 4:05 PM ET Sun Nov 15 · Allegiant Stadium, Las Vegas, NV · CBS. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Seattle Seahawks at Las Vegas Raiders. 4:05 PM ET Sun Nov 15 · Allegiant Stadium, Las Vegas, NV · CBS. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-10/seattle-seahawks-at-las-vegas-raiders/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-10/seattle-seahawks-at-las-vegas-raiders/gambler/podcast/</guid>
+      <pubDate>Wed, 11 Nov 2026 18:16:07 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Seattle Seahawks at Las Vegas Raiders. 4:05 PM ET Sun Nov 15 · Allegiant Stadium, Las Vegas, NV · CBS. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w10_gambler/401873062.mp3" length="817580" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: San Francisco 49ers at Dallas Cowboys</title>
+      <description>The Gambler Podcast: San Francisco 49ers at Dallas Cowboys. 4:25 PM ET Sun Nov 15 · AT&amp;T Stadium, Arlington, TX · Fox. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: San Francisco 49ers at Dallas Cowboys. 4:25 PM ET Sun Nov 15 · AT&amp;T Stadium, Arlington, TX · Fox. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-10/san-francisco-49ers-at-dallas-cowboys/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-10/san-francisco-49ers-at-dallas-cowboys/gambler/podcast/</guid>
+      <pubDate>Wed, 11 Nov 2026 18:16:07 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: San Francisco 49ers at Dallas Cowboys. 4:25 PM ET Sun Nov 15 · AT&amp;T Stadium, Arlington, TX · Fox. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w10_gambler/401873063.mp3" length="908204" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Pittsburgh Steelers at Cincinnati Bengals</title>
+      <description>The Gambler Podcast: Pittsburgh Steelers at Cincinnati Bengals. 8:20 PM ET Sun Nov 15 · Paycor Stadium, Cincinnati, OH · NBC. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Pittsburgh Steelers at Cincinnati Bengals. 8:20 PM ET Sun Nov 15 · Paycor Stadium, Cincinnati, OH · NBC. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-10/pittsburgh-steelers-at-cincinnati-bengals/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-10/pittsburgh-steelers-at-cincinnati-bengals/gambler/podcast/</guid>
+      <pubDate>Wed, 11 Nov 2026 18:16:07 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Pittsburgh Steelers at Cincinnati Bengals. 8:20 PM ET Sun Nov 15 · Paycor Stadium, Cincinnati, OH · NBC. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w10_gambler/401873064.mp3" length="885932" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Los Angeles Chargers at Baltimore Ravens</title>
+      <description>The Gambler Podcast: Los Angeles Chargers at Baltimore Ravens. 8:15 PM ET Mon Nov 16 · M&amp;T Bank Stadium, Baltimore, MD · ESPN. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Los Angeles Chargers at Baltimore Ravens. 8:15 PM ET Mon Nov 16 · M&amp;T Bank Stadium, Baltimore, MD · ESPN. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-10/los-angeles-chargers-at-baltimore-ravens/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-10/los-angeles-chargers-at-baltimore-ravens/gambler/podcast/</guid>
+      <pubDate>Wed, 11 Nov 2026 18:16:07 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Los Angeles Chargers at Baltimore Ravens. 8:15 PM ET Mon Nov 16 · M&amp;T Bank Stadium, Baltimore, MD · ESPN. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w10_gambler/401873065.mp3" length="882092" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Washington Commanders at New York Giants</title>
+      <description>The Gambler Podcast: Washington Commanders at New York Giants. 8:15 PM ET Thu Nov 12 · MetLife Stadium, East Rutherford, NJ · Prime Video. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Washington Commanders at New York Giants. 8:15 PM ET Thu Nov 12 · MetLife Stadium, East Rutherford, NJ · Prime Video. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-10/washington-commanders-at-new-york-giants/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-10/washington-commanders-at-new-york-giants/gambler/podcast/</guid>
+      <pubDate>Wed, 11 Nov 2026 18:10:06 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Washington Commanders at New York Giants. 8:15 PM ET Thu Nov 12 · MetLife Stadium, East Rutherford, NJ · Prime Video. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w10_gambler/401873052.mp3" length="917804" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Buffalo Bills at Minnesota Vikings</title>
+      <description>The Gambler Podcast: Buffalo Bills at Minnesota Vikings. 8:15 PM ET Mon Nov 9 · U.S. Bank Stadium, Minneapolis, MN · ESPN, ABC. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Buffalo Bills at Minnesota Vikings. 8:15 PM ET Mon Nov 9 · U.S. Bank Stadium, Minneapolis, MN · ESPN, ABC. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-9/buffalo-bills-at-minnesota-vikings/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-9/buffalo-bills-at-minnesota-vikings/gambler/podcast/</guid>
+      <pubDate>Mon, 09 Nov 2026 17:32:46 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Buffalo Bills at Minnesota Vikings. 8:15 PM ET Mon Nov 9 · U.S. Bank Stadium, Minneapolis, MN · ESPN, ABC. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w9_gambler/401873051.mp3" length="866348" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Dallas Cowboys at Indianapolis Colts</title>
+      <description>The Gambler Podcast: Dallas Cowboys at Indianapolis Colts. 1:00 PM ET Sun Nov 8 · Lucas Oil Stadium, Indianapolis, IN · Fox. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Dallas Cowboys at Indianapolis Colts. 1:00 PM ET Sun Nov 8 · Lucas Oil Stadium, Indianapolis, IN · Fox. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-9/dallas-cowboys-at-indianapolis-colts/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-9/dallas-cowboys-at-indianapolis-colts/gambler/podcast/</guid>
+      <pubDate>Sun, 08 Nov 2026 13:05:30 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Dallas Cowboys at Indianapolis Colts. 1:00 PM ET Sun Nov 8 · Lucas Oil Stadium, Indianapolis, IN · Fox. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w9_gambler/401873040.mp3" length="800684" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: New York Giants at Philadelphia Eagles</title>
+      <description>The Gambler Podcast: New York Giants at Philadelphia Eagles. 1:00 PM ET Sun Nov 8 · Lincoln Financial Field, Philadelphia, PA · Fox. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: New York Giants at Philadelphia Eagles. 1:00 PM ET Sun Nov 8 · Lincoln Financial Field, Philadelphia, PA · Fox. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-9/new-york-giants-at-philadelphia-eagles/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-9/new-york-giants-at-philadelphia-eagles/gambler/podcast/</guid>
+      <pubDate>Sun, 08 Nov 2026 05:03:36 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: New York Giants at Philadelphia Eagles. 1:00 PM ET Sun Nov 8 · Lincoln Financial Field, Philadelphia, PA · Fox. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w9_gambler/401873044.mp3" length="906284" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: New York Jets at Kansas City Chiefs</title>
+      <description>The Gambler Podcast: New York Jets at Kansas City Chiefs. 1:00 PM ET Sun Nov 8 · Arrowhead Stadium, Kansas City, MO · CBS. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: New York Jets at Kansas City Chiefs. 1:00 PM ET Sun Nov 8 · Arrowhead Stadium, Kansas City, MO · CBS. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-9/new-york-jets-at-kansas-city-chiefs/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-9/new-york-jets-at-kansas-city-chiefs/gambler/podcast/</guid>
+      <pubDate>Sun, 08 Nov 2026 05:03:36 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: New York Jets at Kansas City Chiefs. 1:00 PM ET Sun Nov 8 · Arrowhead Stadium, Kansas City, MO · CBS. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w9_gambler/401873045.mp3" length="834476" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Houston Texans at Los Angeles Chargers</title>
+      <description>The Gambler Podcast: Houston Texans at Los Angeles Chargers. 4:05 PM ET Sun Nov 8 · SoFi Stadium, Inglewood, CA · CBS. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Houston Texans at Los Angeles Chargers. 4:05 PM ET Sun Nov 8 · SoFi Stadium, Inglewood, CA · CBS. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-9/houston-texans-at-los-angeles-chargers/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-9/houston-texans-at-los-angeles-chargers/gambler/podcast/</guid>
+      <pubDate>Sun, 08 Nov 2026 05:03:36 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Houston Texans at Los Angeles Chargers. 4:05 PM ET Sun Nov 8 · SoFi Stadium, Inglewood, CA · CBS. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w9_gambler/401873046.mp3" length="884012" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Las Vegas Raiders at San Francisco 49ers</title>
+      <description>The Gambler Podcast: Las Vegas Raiders at San Francisco 49ers. 4:25 PM ET Sun Nov 8 · Levi&amp;#x27;s Stadium, Santa Clara, CA · Fox. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Las Vegas Raiders at San Francisco 49ers. 4:25 PM ET Sun Nov 8 · Levi&amp;#x27;s Stadium, Santa Clara, CA · Fox. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-9/las-vegas-raiders-at-san-francisco-49ers/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-9/las-vegas-raiders-at-san-francisco-49ers/gambler/podcast/</guid>
+      <pubDate>Sun, 08 Nov 2026 05:03:36 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Las Vegas Raiders at San Francisco 49ers. 4:25 PM ET Sun Nov 8 · Levi&amp;#x27;s Stadium, Santa Clara, CA · Fox. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w9_gambler/401873047.mp3" length="857516" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Arizona Cardinals at Seattle Seahawks</title>
+      <description>The Gambler Podcast: Arizona Cardinals at Seattle Seahawks. 4:25 PM ET Sun Nov 8 · Lumen Field, Seattle, WA · Fox. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Arizona Cardinals at Seattle Seahawks. 4:25 PM ET Sun Nov 8 · Lumen Field, Seattle, WA · Fox. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-9/arizona-cardinals-at-seattle-seahawks/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-9/arizona-cardinals-at-seattle-seahawks/gambler/podcast/</guid>
+      <pubDate>Sun, 08 Nov 2026 05:03:36 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Arizona Cardinals at Seattle Seahawks. 4:25 PM ET Sun Nov 8 · Lumen Field, Seattle, WA · Fox. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w9_gambler/401873048.mp3" length="865580" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Green Bay Packers at New England Patriots</title>
+      <description>The Gambler Podcast: Green Bay Packers at New England Patriots. 4:25 PM ET Sun Nov 8 · Gillette Stadium, Foxborough, MA · Fox. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Green Bay Packers at New England Patriots. 4:25 PM ET Sun Nov 8 · Gillette Stadium, Foxborough, MA · Fox. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-9/green-bay-packers-at-new-england-patriots/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-9/green-bay-packers-at-new-england-patriots/gambler/podcast/</guid>
+      <pubDate>Sun, 08 Nov 2026 05:03:36 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Green Bay Packers at New England Patriots. 4:25 PM ET Sun Nov 8 · Gillette Stadium, Foxborough, MA · Fox. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w9_gambler/401873049.mp3" length="870572" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Tampa Bay Buccaneers at Chicago Bears</title>
+      <description>The Gambler Podcast: Tampa Bay Buccaneers at Chicago Bears. 8:20 PM ET Sun Nov 8 · Soldier Field, Chicago, IL · NBC. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Tampa Bay Buccaneers at Chicago Bears. 8:20 PM ET Sun Nov 8 · Soldier Field, Chicago, IL · NBC. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-9/tampa-bay-buccaneers-at-chicago-bears/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-9/tampa-bay-buccaneers-at-chicago-bears/gambler/podcast/</guid>
+      <pubDate>Sun, 08 Nov 2026 05:03:36 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Tampa Bay Buccaneers at Chicago Bears. 8:20 PM ET Sun Nov 8 · Soldier Field, Chicago, IL · NBC. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w9_gambler/401873050.mp3" length="898604" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Cleveland Browns at New Orleans Saints</title>
+      <description>The Gambler Podcast: Cleveland Browns at New Orleans Saints. 1:00 PM ET Sun Nov 8 · Caesars Superdome, New Orleans, LA · CBS. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Cleveland Browns at New Orleans Saints. 1:00 PM ET Sun Nov 8 · Caesars Superdome, New Orleans, LA · CBS. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-9/cleveland-browns-at-new-orleans-saints/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-9/cleveland-browns-at-new-orleans-saints/gambler/podcast/</guid>
+      <pubDate>Sun, 08 Nov 2026 04:49:30 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Cleveland Browns at New Orleans Saints. 1:00 PM ET Sun Nov 8 · Caesars Superdome, New Orleans, LA · CBS. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w9_gambler/401873039.mp3" length="818732" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Denver Broncos at Carolina Panthers</title>
+      <description>The Gambler Podcast: Denver Broncos at Carolina Panthers. 1:00 PM ET Sun Nov 8 · Bank of America Stadium, Charlotte, NC · CBS. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Denver Broncos at Carolina Panthers. 1:00 PM ET Sun Nov 8 · Bank of America Stadium, Charlotte, NC · CBS. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-9/denver-broncos-at-carolina-panthers/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-9/denver-broncos-at-carolina-panthers/gambler/podcast/</guid>
+      <pubDate>Sun, 08 Nov 2026 04:49:30 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Denver Broncos at Carolina Panthers. 1:00 PM ET Sun Nov 8 · Bank of America Stadium, Charlotte, NC · CBS. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w9_gambler/401873041.mp3" length="882476" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Detroit Lions at Miami Dolphins</title>
+      <description>The Gambler Podcast: Detroit Lions at Miami Dolphins. 1:00 PM ET Sun Nov 8 · Hard Rock Stadium, Miami Gardens, FL · CBS. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Detroit Lions at Miami Dolphins. 1:00 PM ET Sun Nov 8 · Hard Rock Stadium, Miami Gardens, FL · CBS. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-9/detroit-lions-at-miami-dolphins/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-9/detroit-lions-at-miami-dolphins/gambler/podcast/</guid>
+      <pubDate>Sun, 08 Nov 2026 04:49:30 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Detroit Lions at Miami Dolphins. 1:00 PM ET Sun Nov 8 · Hard Rock Stadium, Miami Gardens, FL · CBS. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w9_gambler/401873042.mp3" length="839468" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Los Angeles Rams at Washington Commanders</title>
+      <description>The Gambler Podcast: Los Angeles Rams at Washington Commanders. 1:00 PM ET Sun Nov 8 · Northwest Stadium, Landover, MD · Fox. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Los Angeles Rams at Washington Commanders. 1:00 PM ET Sun Nov 8 · Northwest Stadium, Landover, MD · Fox. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-9/los-angeles-rams-at-washington-commanders/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-9/los-angeles-rams-at-washington-commanders/gambler/podcast/</guid>
+      <pubDate>Sun, 08 Nov 2026 04:49:30 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Los Angeles Rams at Washington Commanders. 1:00 PM ET Sun Nov 8 · Northwest Stadium, Landover, MD · Fox. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>0:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w9_gambler/401873043.mp3" length="882476" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Cincinnati Bengals at Atlanta Falcons</title>
+      <description>The Gambler Podcast: Cincinnati Bengals at Atlanta Falcons. 9:30 AM ET Sun Nov 8 · Santiago Bernabéu, Madrid, Spain · NFL Net. Hosted by Snake Blitzskin.</description>
+      <content:encoded>The Gambler Podcast: Cincinnati Bengals at Atlanta Falcons. 9:30 AM ET Sun Nov 8 · Santiago Bernabéu, Madrid, Spain · NFL Net. Hosted by Snake Blitzskin.</content:encoded>
+      <link>https://stories.thecoverwindow.com/nfl/2026/week-9/cincinnati-bengals-at-atlanta-falcons/gambler/podcast/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/nfl/2026/week-9/cincinnati-bengals-at-atlanta-falcons/gambler/podcast/</guid>
+      <pubDate>Sun, 08 Nov 2026 04:39:28 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Cincinnati Bengals at Atlanta Falcons. 9:30 AM ET Sun Nov 8 · Santiago Bernabéu, Madrid, Spain · NFL Net. Hosted by Snake Blitzskin.</itunes:summary>
+      <itunes:duration>1:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/nfl_w9_gambler/401873038.mp3" length="1000364" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

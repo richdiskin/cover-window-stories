@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Gambler Podcast: College Conferences</title>
+    <link>https://stories.thecoverwindow.com/college/</link>
+    <description>The Gambler Podcast with Snake Blitzskin. Conference-by-conference college football previews from The Cover Window.</description>
+    <language>en-us</language>
+    <copyright>&#169; 2026 The Cover Window</copyright>
+    <lastBuildDate>Sun, 22 Nov 2026 20:11:56 -0500</lastBuildDate>
+    <generator>Cover Window podcast feed builder</generator>
+    <atom:link href="https://stories.thecoverwindow.com/podcasts/feeds/college-conferences.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>The Cover Window</itunes:author>
+    <itunes:subtitle>Conference previews with Snake Blitzskin, from The Cover Window.</itunes:subtitle>
+    <itunes:summary>The Gambler Podcast with Snake Blitzskin. Conference-by-conference college football previews from The Cover Window.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>The Cover Window</itunes:name>
+      <itunes:email>desk@thecoverwindow.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Sports">
+      <itunes:category text="Football"/>
+    </itunes:category>
+    <itunes:image href="https://stories.thecoverwindow.com/podcasts/feeds/college-conferences.png"/>
+    <image>
+      <url>https://stories.thecoverwindow.com/podcasts/feeds/college-conferences.png</url>
+      <title>The Gambler Podcast: College Conferences</title>
+      <link>https://stories.thecoverwindow.com/college/</link>
+    </image>
+    <podcast:guid>d421a542-f860-505b-a296-b214524eac3a</podcast:guid>
+    <podcast:medium>audio</podcast:medium>
+    <podcast:person role="host" group="cast">Snake Blitzskin</podcast:person>
+    <podcast:person role="owner">The Cover Window</podcast:person>
+    <item>
+      <title>The Gambler Podcast: ACC, Week of Nov 21</title>
+      <description>The Gambler Podcast: ACC, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</description>
+      <content:encoded>The Gambler Podcast: ACC, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</content:encoded>
+      <link>https://stories.thecoverwindow.com/college/conferences/acc/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/college/conferences/acc/</guid>
+      <pubDate>Wed, 18 Nov 2026 23:57:29 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: ACC, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</itunes:summary>
+      <itunes:duration>8:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/college_2026-11-21_gambler_conf/ACC.mp3" length="11590260" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Big 12, Week of Nov 21</title>
+      <description>The Gambler Podcast: Big 12, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</description>
+      <content:encoded>The Gambler Podcast: Big 12, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</content:encoded>
+      <link>https://stories.thecoverwindow.com/college/conferences/big-12/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/college/conferences/big-12/</guid>
+      <pubDate>Wed, 18 Nov 2026 23:57:29 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Big 12, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</itunes:summary>
+      <itunes:duration>7:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/college_2026-11-21_gambler_conf/Big_12.mp3" length="10614116" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Big Ten, Week of Nov 21</title>
+      <description>The Gambler Podcast: Big Ten, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</description>
+      <content:encoded>The Gambler Podcast: Big Ten, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</content:encoded>
+      <link>https://stories.thecoverwindow.com/college/conferences/big-ten/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/college/conferences/big-ten/</guid>
+      <pubDate>Wed, 18 Nov 2026 23:57:29 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Big Ten, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</itunes:summary>
+      <itunes:duration>8:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/college_2026-11-21_gambler_conf/Big_Ten.mp3" length="11963915" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Conference USA, Week of Nov 21</title>
+      <description>The Gambler Podcast: Conference USA, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</description>
+      <content:encoded>The Gambler Podcast: Conference USA, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</content:encoded>
+      <link>https://stories.thecoverwindow.com/college/conferences/conference-usa/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/college/conferences/conference-usa/</guid>
+      <pubDate>Wed, 18 Nov 2026 23:57:29 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Conference USA, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</itunes:summary>
+      <itunes:duration>4:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/college_2026-11-21_gambler_conf/Conference_USA.mp3" length="5886998" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: MAC, Week of Nov 21</title>
+      <description>The Gambler Podcast: MAC, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</description>
+      <content:encoded>The Gambler Podcast: MAC, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</content:encoded>
+      <link>https://stories.thecoverwindow.com/college/conferences/mac/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/college/conferences/mac/</guid>
+      <pubDate>Wed, 18 Nov 2026 23:57:29 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: MAC, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</itunes:summary>
+      <itunes:duration>2:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/college_2026-11-21_gambler_conf/MAC.mp3" length="3135363" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Mountain West, Week of Nov 21</title>
+      <description>The Gambler Podcast: Mountain West, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</description>
+      <content:encoded>The Gambler Podcast: Mountain West, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</content:encoded>
+      <link>https://stories.thecoverwindow.com/college/conferences/mountain-west/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/college/conferences/mountain-west/</guid>
+      <pubDate>Wed, 18 Nov 2026 23:57:29 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Mountain West, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</itunes:summary>
+      <itunes:duration>4:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/college_2026-11-21_gambler_conf/Mountain_West.mp3" length="6369114" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Pac-12, Week of Nov 21</title>
+      <description>The Gambler Podcast: Pac-12, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</description>
+      <content:encoded>The Gambler Podcast: Pac-12, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</content:encoded>
+      <link>https://stories.thecoverwindow.com/college/conferences/pac-12/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/college/conferences/pac-12/</guid>
+      <pubDate>Wed, 18 Nov 2026 23:57:29 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Pac-12, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</itunes:summary>
+      <itunes:duration>3:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/college_2026-11-21_gambler_conf/Pac12.mp3" length="5498923" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: SEC, Week of Nov 21</title>
+      <description>The Gambler Podcast: SEC, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</description>
+      <content:encoded>The Gambler Podcast: SEC, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</content:encoded>
+      <link>https://stories.thecoverwindow.com/college/conferences/sec/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/college/conferences/sec/</guid>
+      <pubDate>Wed, 18 Nov 2026 23:57:29 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: SEC, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</itunes:summary>
+      <itunes:duration>7:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/college_2026-11-21_gambler_conf/SEC.mp3" length="10938870" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gambler Podcast: Sun Belt, Week of Nov 21</title>
+      <description>The Gambler Podcast: Sun Belt, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</description>
+      <content:encoded>The Gambler Podcast: Sun Belt, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</content:encoded>
+      <link>https://stories.thecoverwindow.com/college/conferences/sun-belt/</link>
+      <guid isPermaLink="true">https://stories.thecoverwindow.com/college/conferences/sun-belt/</guid>
+      <pubDate>Wed, 18 Nov 2026 23:57:29 -0500</pubDate>
+      <itunes:author>The Cover Window</itunes:author>
+      <itunes:summary>The Gambler Podcast: Sun Belt, Week of Nov 21. Conference preview with Snake Blitzskin, from The Cover Window.</itunes:summary>
+      <itunes:duration>5:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://stories.thecoverwindow.com/podcast/gambler/college_2026-11-21_gambler_conf/Sun_Belt.mp3" length="7433029" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
